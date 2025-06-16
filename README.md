@@ -21,7 +21,7 @@ This is a personal invitation website for joining Gurkanwar's friendship club. T
 
 ## Deployment
 
-This website is deployed using GitHub Pages and can be visited at [https://[your-username].github.io/[repo-name]/](https://gurkanwarsingh56.github.io/Friendship_webpage/)
+This website is deployed using GitHub Pages and can be visited at [website link](https://GurkanwarSingh56.github.io/[/)
 
 ## Contact
 
